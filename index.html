@@ -1,8 +1,77 @@
-<html>
-<head>
-<title>Ash Web</title>
-</head>
-<body>
-<iframe src="https://xyl.lol/ash234" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
-</body>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ash</title>
+        <meta name="description" content="&quot;Normally, you'd find a description here. This, however, is an exception.&quot;">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui" />
+
+		<link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
+		<link rel="manifest" href="img/favicons/manifest.json">
+		<link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#3f51b5">
+		<meta name="theme-color" content="#3f51b5">
+
+		<link rel="stylesheet" href="css/style.min.css">
+        <script async src="js/js.min.js"></script>
+    </head>
+    <body>
+        <canvas class="visualizer" id="visualizer" width="32" height="18" ></canvas>
+        <div class="titleWrap" id="titleWrap">
+            <div class="title noselect" id="title">
+                <!-- Write some simple javascript to flicker this text -->
+	            <div class="sharpen">A</div>
+	            <div class="subtract">S</div>
+	            <div class="sharpen">H</div>
+            </div>
+	        <div class="menu" id="menu">
+		        <span class="rightText">
+		            Programmer
+		        </span>
+		        <a id="emailLink">Partner in Bloxdrip, i exploit shi</a>
+		        <a href="https://discord.gg/bloxdrip" target="_blank" id="gitHubLink">[ BloxDrip ]</a>
+	        </div>
+	        <div class="content" id="content">
+
+	        </div>
+			<div class="content contentPurgatory">
+				<div id="emailContent" class="contentFrame">
+					<form id="contactForm" class="contactForm">
+						<input type="text" class="formField" placeholder="Name" name="name">
+						<input type="text" class="formField" placeholder="Email" name="email">
+						<textarea class="formField" placeholder="Message" name="message" rows="10"></textarea>
+						<button onclick="sendMessage(this); return false;" class="button">Send Email</button>
+					</form>
+				</div>
+				<div id="portfolioContent" class="contentFrame">
+					<div class="contentTitle">Latest Projects</div>
+					<div class="zoomBox">
+						<div class="zoomBoxImage" style="background-image:url(img/icons/puzzle.jpg);"></div>
+						<div class="zoomBoxImageBlur" style="background-image:url(img/icons/puzzle-blur.jpg);"></div>
+						<div class="zoomBoxText">
+							<span class="noselect">Block Galaxy</span>
+						</div>
+					</div><div class="zoomBox">
+						<div class="zoomBoxImage" style="background-image:url(img/icons/mg.jpg);"></div>
+						<div class="zoomBoxImageBlur" style="background-image:url(img/icons/mg-blur.jpg);"></div>
+						<div class="zoomBoxText">
+							<span class="noselect">McleodGaming</span>
+						</div>
+					</div><div class="zoomBox">
+						<div class="zoomBoxImage" style="background-image:url(img/icons/mgvis.jpg);"></div>
+						<div class="zoomBoxImageBlur" style="background-image:url(img/icons/mgvis-blur.jpg);"></div>
+						<div class="zoomBoxText">
+							<span class="noselect">MG Visualizer</span>
+							<div class="zoomBoxLinks"><a onclick="showScreenshots(event,'mgvis');">[ Screenshots ]</a></div>
+						</div>
+					</div><div class="zoomBox">
+						<div class="zoomBoxImage" style="background-image:url(img/icons/alex.jpg);"></div>
+						<div class="zoomBoxImageBlur" style="background-image:url(img/icons/alex-blur.jpg);"></div>
+						<div class="zoomBoxText">
+							<span class="noselect">Alexandra Conley</span>
+						</div>
+					</div>
+        </div>
+    </body>
 </html>

@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$" />
+    <bookmark url="file://$PROJECT_DIR$/README.md" line="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dc54a91-074d-4d1f-81ff-6b56d5ee3f7a" name="Default" comment="Added">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/js.min.js" afterPath="$PROJECT_DIR$/js/js.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/src/functions.js" afterPath="$PROJECT_DIR$/js/src/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/src/visualizer.js" afterPath="$PROJECT_DIR$/js/src/visualizer.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0-fonts.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/src/0-fonts.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/src/1-style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visualizer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/src/visualizer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="106" column="21" lean-forward="true" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/src/functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="40" lean-forward="true" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+              <folding>
+                <marker date="1507261904315" expanded="true" signature="2131:2145" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-mobile.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/src/2-mobile.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="90" column="1" lean-forward="false" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package_json" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>function vis_drawRect</find>
+      <find>vis_getScreenWidth</find>
+      <find>mousePos</find>
+      <find>32</find>
+      <find>js_sendMessage</find>
+      <find>currentColor</find>
+      <find>displayNone</find>
+      <find>contentFrame</find>
+      <find>formField</find>
+      <find>contactForm</find>
+      <find>titleW</find>
+      <find>title</find>
+      <find>console.log</find>
+      <find>addCls</find>
+      <find>titleWrap</find>
+      <find>zoomBoxImage</find>
+      <find>touchm</find>
+      <find>menu</find>
+      <find>centerContent</find>
+      <find>zoomb</find>
+      <find>con</find>
+      <find>.menu</find>
+      <find>sirtopeia</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stylesheet.css" />
+        <option value="$PROJECT_DIR$/css/merged/all.css" />
+        <option value="$PROJECT_DIR$/css/fonts.css" />
+        <option value="$PROJECT_DIR$/compile-css.bat" />
+        <option value="$PROJECT_DIR$/css/compile/compile-css.bat" />
+        <option value="$PROJECT_DIR$/css/src/fonts.css" />
+        <option value="$PROJECT_DIR$/css/src/style.css" />
+        <option value="$PROJECT_DIR$/css/src/mobile.css" />
+        <option value="$PROJECT_DIR$/css/style.min.css" />
+        <option value="$PROJECT_DIR$/js/compile/compile-js.bat" />
+        <option value="$PROJECT_DIR$/js/src/stats.js" />
+        <option value="$PROJECT_DIR$/js/src/tween.js" />
+        <option value="$PROJECT_DIR$/js/js.min.js" />
+        <option value="$PROJECT_DIR$/js/src/stats.min.js" />
+        <option value="$PROJECT_DIR$/js/src/onload.js" />
+        <option value="$PROJECT_DIR$/css/src/0-fonts.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/gruntfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/css/src/1.1-forms.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/css/src/10-forms.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/src/1-style.css" />
+        <option value="$PROJECT_DIR$/css/src/2-mobile.css" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/js/src/visualizer.js" />
+        <option value="$PROJECT_DIR$/js/src/functions.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Js &amp; Css" pattern="file[Jakesiegers2017]:js/src/*||file[Jakesiegers2017]:css/src/*" />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2315" />
+    <option name="y" value="345" />
+    <option name="width" value="1452" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Jakesiegers2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jakesiegers2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Jakesiegers2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jakesiegers2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Jakesiegers2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jakesiegers2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Jakesiegers2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jakesiegers2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Jakesiegers2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jakesiegers2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PuzzleCylinder" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.4.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\css" />
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\css\compile\src" />
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\css\compile" />
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017" />
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\src\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\img" />
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\src" />
+      <recent name="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Jakesiegers2017/index.html" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc54a91-074d-4d1f-81ff-6b56d5ee3f7a" name="Default" comment="" />
+      <created>1499406372037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499406372037</updated>
+      <workItem from="1499406375937" duration="1835000" />
+      <workItem from="1499468755449" duration="3915000" />
+      <workItem from="1499472913591" duration="572000" />
+      <workItem from="1499556391815" duration="1165000" />
+      <workItem from="1499558217124" duration="66000" />
+      <workItem from="1499558337708" duration="15876000" />
+      <workItem from="1499616431086" duration="9883000" />
+      <workItem from="1499699680925" duration="20000" />
+      <workItem from="1499705221461" duration="4421000" />
+      <workItem from="1499747711236" duration="3550000" />
+      <workItem from="1499822947475" duration="1454000" />
+      <workItem from="1500221127127" duration="3260000" />
+      <workItem from="1500778155044" duration="13000" />
+      <workItem from="1500778200142" duration="8815000" />
+      <workItem from="1500834893028" duration="5812000" />
+      <workItem from="1500841031235" duration="669000" />
+      <workItem from="1500855635636" duration="9913000" />
+      <workItem from="1501444487024" duration="336000" />
+      <workItem from="1501444842161" duration="10637000" />
+      <workItem from="1501455640625" duration="179000" />
+      <workItem from="1501617498019" duration="700000" />
+      <workItem from="1501644882715" duration="249000" />
+      <workItem from="1502063626223" duration="1027000" />
+      <workItem from="1503353610036" duration="22000" />
+      <workItem from="1503465967072" duration="958000" />
+      <workItem from="1503466945177" duration="3249000" />
+      <workItem from="1503803250104" duration="1770000" />
+      <workItem from="1503805136462" duration="1018000" />
+      <workItem from="1503981341868" duration="2596000" />
+      <workItem from="1504058339892" duration="251000" />
+      <workItem from="1504400060063" duration="5144000" />
+      <workItem from="1504469549915" duration="1790000" />
+      <workItem from="1504496616364" duration="5524000" />
+      <workItem from="1504546904711" duration="4005000" />
+      <workItem from="1505872415584" duration="1871000" />
+      <workItem from="1506117730014" duration="740000" />
+      <workItem from="1506136349627" duration="23000" />
+      <workItem from="1506136401470" duration="140000" />
+      <workItem from="1506136749724" duration="686000" />
+      <workItem from="1507261640970" duration="397000" />
+    </task>
+    <task id="LOCAL-00001" summary="Switched to grunt for automated builds - much nicer than windows only batch files.&#10;Should work on any os - i'm working from my mac today.">
+      <created>1503470268633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503470268633</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cleaned up gruntfile">
+      <created>1503470380297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1503470380297</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated package.json">
+      <created>1503803537590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503803537590</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adjusted file watcher&#10;Testing form styles">
+      <created>1503804740370</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503804740370</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Style Adjustments">
+      <created>1503982312738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503982312738</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hover box and mobile improvements.&#10;Still not sure if I like them, but they're better now.">
+      <created>1503984158393</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1503984158393</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed Touch console error&#10;Animations are now time based, instead of frame based (They should be the same speed at any framerate)&#10;Improved screen change animations">
+      <created>1504406819563</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1504406819564</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final touches to website before launch&#10;Added older node game">
+      <created>1504548834170</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1504548834170</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added email php">
+      <created>1504549783167</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1504549783167</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Style adjustments for safari&#10;Added csv logging to mail form">
+      <created>1506136481660</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1506136481660</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Style adjustments for safari&#10;Added csv logging to mail form">
+      <created>1506137060494</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1506137060494</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="114551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="345" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11433087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76031214" sideWeight="0.516333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5005574" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.487882" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76031214" sideWeight="0.48366702" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="C:\Users\Jake\Desktop\Dropbox\Jakesiegers2017\JakeSiegers.com" />
+    </ignored-roots>
+    <MESSAGE value="Switched to grunt for automated builds - much nicer than windows only batch files.&#10;Should work on any os - i'm working from my mac today." />
+    <MESSAGE value="cleaned up gruntfile" />
+    <MESSAGE value="Updated package.json" />
+    <MESSAGE value="Adjusted file watcher&#10;Testing form styles" />
+    <MESSAGE value="Style Adjustments" />
+    <MESSAGE value="Hover box and mobile improvements.&#10;Still not sure if I like them, but they're better now." />
+    <MESSAGE value="Fixed Touch console error&#10;Animations are now time based, instead of frame based (They should be the same speed at any framerate)&#10;Improved screen change animations" />
+    <MESSAGE value="Final touches to website before launch&#10;Added older node game" />
+    <MESSAGE value="Added email php" />
+    <MESSAGE value="Style adjustments for safari&#10;Added csv logging to mail form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Style adjustments for safari&#10;Added csv logging to mail form" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/src/onload.js" />
+    <entry file="file://$PROJECT_DIR$/css/src/2-mobile.css" />
+    <entry file="file://$PROJECT_DIR$/css/src/0-fonts.css" />
+    <entry file="file://$PROJECT_DIR$/css/src/1-style.css" />
+    <entry file="file://$PROJECT_DIR$/css/compile/compile-css.bat" />
+    <entry file="file://$PROJECT_DIR$/js/src/functions.js" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/src/0-fonts.css" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/src/0-fonts.css" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exodus-subtract-webfont.woff2" />
+    <entry file="file://$PROJECT_DIR$/fonts/ExodusDisplay-Subtract-Bold.woff2" />
+    <entry file="file://$PROJECT_DIR$/css/fonts.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/merged/all.css" />
+    <entry file="file://$PROJECT_DIR$/css/out.css" />
+    <entry file="file://$PROJECT_DIR$/css/merged.css" />
+    <entry file="file://$PROJECT_DIR$/js/src/tween.js" />
+    <entry file="file://$PROJECT_DIR$/js/src/stats.min.js" />
+    <entry file="file://$PROJECT_DIR$/img/2017-07-23 13_36_36-.png" />
+    <entry file="file://$PROJECT_DIR$/img/2017-07-23 13_36_58-.png" />
+    <entry file="file://$PROJECT_DIR$/img/2017-07-23 13_39_42-.png" />
+    <entry file="file://$PROJECT_DIR$/img/2017-07-23 13_40_08-McLeodGaming.png" />
+    <entry file="file://$PROJECT_DIR$/img/2017-07-23 13_40_44-.png" />
+    <entry file="file://$PROJECT_DIR$/img/2017-07-23 13_41_58-.png" />
+    <entry file="file://$PROJECT_DIR$/img/2017-07-23 13_42_25-News - McLeodGaming.png" />
+    <entry file="file://$PROJECT_DIR$/js/js.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/1-style.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/compile/compile-js.bat" />
+    <entry file="file://$PROJECT_DIR$/css/compile/compile-css.bat" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/grunt-cli/bin/grunt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/grunt-cli/completion/bash">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/src/10-forms.css" />
+    <entry file="file://$PROJECT_DIR$/js/src/onload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/src/0-fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gruntfile.js" />
+    <entry file="file://$PROJECT_DIR$/css/src/1-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/src/2-mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="1" lean-forward="false" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="40" lean-forward="true" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <marker date="1507261904315" expanded="true" signature="2131:2145" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/visualizer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="106" column="21" lean-forward="true" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Js &amp; Css</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Js &amp; Css" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
